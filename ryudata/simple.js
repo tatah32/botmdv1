@@ -16,8 +16,7 @@ exports.list = (pushname, ucapanWaktu, namabot) => {
 
 //MENU OWNER
 exports.sowner = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
+	return`
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -39,8 +38,7 @@ Instagram : @Fandyyy._
 
 //MENU GRUP
 exports.sgrup = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
+	return`
 
 *👥 GROUP MENU*
 ⚘👾 ${prefix}antilink
@@ -58,9 +56,7 @@ Instagram : @Fandyyy._
 
 //MENU DOWNLOAD
 exports.sdown = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *📦 DOWNLOAD MENU*
 ⚘👾 ${prefix}tiktoknowm [url]
 ⚘👾 ${prefix}tiktokwm [url]
@@ -77,9 +73,7 @@ Instagram : @Fandyyy._
 
 //MENU SEARCH
 exports.ssearch = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *🔎 SEARCH MENU*
 ⚘👾 ${prefix}pinterest [query]
 ⚘👾 ${prefix}pantun
@@ -92,9 +86,7 @@ Instagram : @Fandyyy._
 
 //MENU INFORMASI
 exports.sinfo = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *🗞️ INFORMASI MENU*
 ⚘👾 ${prefix}infogempa
 ⚘👾 ${prefix}faktaunik
@@ -104,9 +96,7 @@ Instagram : @Fandyyy._
 
 //MENU NULIS
 exports.snulis = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *✍️ NULIS MENU*
 ⚘👾 ${prefix}nulisbiasa
 ⚘👾 ${prefix}nuliskanan
@@ -118,9 +108,7 @@ Instagram : @Fandyyy._
 
 //MENU ASUPAN
 exports.sasupan = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *👭 ASUPAN MENU*
 ⚘👾 ${prefix}asupanhijaber
 ⚘👾 ${prefix}asupancecan
@@ -134,9 +122,7 @@ Instagram : @Fandyyy._
 
 //MENU CECAN
 exports.scecan = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *👩 CECAN MENU*
 ⚘👾 ${prefix}china
 ⚘👾 ${prefix}vietnam
@@ -150,9 +136,7 @@ Instagram : @Fandyyy._
 
 //CASE FUN MENU
 exports.sfun = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *🎮 FUN MENU*
 ⚘👾 ${prefix}truth
 ⚘👾 ${prefix}dare
@@ -167,9 +151,7 @@ Instagram : @Fandyyy._
 
 //GAME MENU
 exports.sgame = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *🎰 GAME MENU*
 ⚘👾 ${prefix}tebak lagu
 ⚘👾 ${prefix}tebak gambar
@@ -183,9 +165,7 @@ Instagram : @Fandyyy._
 
 //GAME MENU
 exports.srandom = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *🎡 RANDOM MENU*
 ⚘👾 ${prefix}darkjokes
 ⚘👾 ${prefix}meme
@@ -205,9 +185,7 @@ Instagram : @Fandyyy._
 
 //MENU ANIME
 exports.sanime = (prefix) => {
-	return`Media Sosial 🌱
-IG : Fandyyy._
-
+	return`
 *⛩️ ANIME MENU*
 ⚘👾 ${prefix}quotesanime
 ⚘👾 ${prefix}waifu
@@ -246,9 +224,7 @@ IG : Fandyyy._
 
 //NSFW MENU
 exports.snsfw = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *🔞 NSFW MENU*
 ⚘👾 ${prefix}blowjob
 ⚘👾 ${prefix}hentai
@@ -260,9 +236,7 @@ Instagram : @Fandyyy._
 
 //MAKER MENU
 exports.smaker = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *👨‍🎨 MAKER MENU*
 ⚘👾 ${prefix}toimage
 ⚘👾 ${prefix}smeme
@@ -277,9 +251,7 @@ Instagram : @Fandyyy._
 
 //TEXTPRO MENU
 exports.stextpro = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *👨‍🎨 TEXTPRO MENU*
 ⚘👾 ${prefix}serti1 [teks]
 ⚘👾 ${prefix}serti2 [teks]
@@ -301,9 +273,7 @@ Instagram : @Fandyyy._
 
 //OTHER MENU
 exports.sother = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+	return`
 *☕ OTHER MENU*
 ⚘👾 ${prefix}simi [teks]
 ⚘👾 ${prefix}ping
@@ -327,8 +297,7 @@ Instagram : @Fandyyy._
 //MENU AWAL
 exports.smenu = (pushname, namabot) => {
 	return`Halo Kak *${pushname}* 👋
-Saya Adalah *${namabot}* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
-
+Saya Adalah *${namabot}* 
 Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger.
 
 Jadi Jika Menemukan Bug Silahkan Laporkan Kepada Owner
