@@ -1,6 +1,6 @@
 {
 	"allow" : {
 		"antilink": false,
-		"nsfw": false
+		"nsfw": true
 	}
 }
