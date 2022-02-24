@@ -12,7 +12,7 @@ const chalk = require('chalk')
 const setting = JSON.parse(fs.readFileSync('./setting.json'))
     
     //Status Bot
-    global.autoread = false // auto read pesan / message
+    global.autoread = true // auto read pesan / message
     global.autorecording = true //status auto merekam ( auto record )
     global.autoketik = false //status auto mengetik (auto typing)
     global.available = true //status online (online)
